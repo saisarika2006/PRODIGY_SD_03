@@ -32,10 +32,10 @@ Contact-Management-System/
 ### Step 1: Install Python
 Check if Python is installed:
 python --version
-Run the Program:
+### Run the Program:
 python contact_manager.py
 
-🧪 Sample Output:
+### 🧪 Sample Output:
 📞 Contact Management System
 1. Add Contact
 2. View Contacts
@@ -44,7 +44,7 @@ python contact_manager.py
 5. Exit
 Choose an option:
 
-💾 Data Storage
+### 💾 Data Storage
 All contacts are stored in a file named contacts.json.
 This ensures that data is saved even after the program is closed.
 Example:
@@ -55,18 +55,18 @@ Example:
         "email": "sai@gmail.com"
     }
 ]
-🧑‍💻 Learning Outcomes
+### 🧑‍💻 Learning Outcomes
 Gained hands-on experience with Python
 Learned file handling using JSON
 Built a menu-driven program
 Improved logical thinking and problem-solving skills
 
-🚀 Future Enhancements
+### 🚀 Future Enhancements
 Add search functionality
 Validate user input
 Add password protection
 Develop a GUI-based version
 
-👤 Author
+### 👤 Author
 Sai Sarika
 Internship Project – Contact Management System
